@@ -19,6 +19,7 @@ const items = [
     content: "you can use CSS on any project"
   },
 ]
+  console.log(items)
 
   return <Accordion items = {items}/>
 }
